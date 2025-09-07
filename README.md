@@ -5,13 +5,10 @@
 <h1 align="center">Hi 👋, I'm Nivetha</h1>
 <h3 align="center">Aspiring Frontend & Python Developer | Building skills for Full-Stack Development</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nivi-24&label=Profile%20views&color=0e75b6&style=flat" alt="nivi-24" />
-</p>
-
 ---
 
-<table>
+<!-- About Me Table -->
+<table width="100%" border="0" style="border:none;">
 <tr>
 <td width="60%">
 
@@ -23,35 +20,57 @@
 
 </td>
 <td width="40%">
-  <img src="https://payload-cms.code-b.dev/media/1709674661110-1.gif" alt="coding gif" width="350"/>
+  <img src="https://payload-cms.code-b.dev/media/1709674661110-1.gif" alt="coding gif" width="320"/>
 </td>
 </tr>
 </table>
 
 ---
 
-### 🌐 Connect With Me  
-<p align="left">
-<a href="https://linkedin.com/in/nivetha-selvam" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/th_niv" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-</a>
+### ⚒️ Tech Stack
+
+<p align="center">
+  <b>Languages:</b><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin:5px;"/>
+</p>
+
+<p align="center">
+  <b>Frameworks:</b><br>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="margin:5px;"/>
+</p>
+
+<p align="center">
+  <b>Databases:</b><br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" style="margin:5px;"/>
+</p>
+
+<p align="center">
+  <b>Version Control:</b><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin:5px;"/>
 </p>
 
 ---
 
-### ⚒️ Languages and Tools  
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+### 🌐 Connect With Me  
+<p align="center">
+<a href="https://linkedin.com/in/nivetha-selvam" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin:5px;"/>
+</a>
+<a href="https://www.leetcode.com/th_niv" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin:5px;"/>
+</a>
+<a href="mailto:nivetha.insights@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin:5px;"/>
+</a>
+<a href="https://github.com/nivi-24" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin:5px;"/>
+</a>
 </p>
 
 ---
