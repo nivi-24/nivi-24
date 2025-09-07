@@ -42,7 +42,7 @@
   <b>Frameworks:</b><br>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="margin:5px;"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin:5px;"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="margin:5px;"/>
+ 
 </p>
 
 <p align="center">
