@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/YdL7X9s/github-banner.png" alt="Nivetha Banner" width="100%" />
+  <img src="https://github.com/nivi-24/nivi-24/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png" alt="Nivetha Banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Nivetha</h1>
 <h3 align="center">Aspiring Frontend & Python Developer | Building skills for Full-Stack Development</h3>
