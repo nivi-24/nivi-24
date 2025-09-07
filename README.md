@@ -1,16 +1,17 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/nivi-24/nivi-24/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png" alt="Nivetha Banner" width="100%" />
+  <img src="https://github.com/nivi-24/nivi-24/blob/main/_If%20at%20first%20you%20don't%20succeed%2C%20try%2C%20try%2C%20try%20again__%20-%20William%20Edward%20Hickson.jpg" alt="Nivetha Banner" width="80%" height="225px"/>
 </p>
+
 <h1 align="center">Hi 👋, I'm Nivetha</h1>
 <h3 align="center">Aspiring Frontend & Python Developer | Building skills for Full-Stack Development</h3>
 
 ---
 
-<!-- About Me Table -->
-<table width="100%" border="0" style="border:none;">
+<!-- About Me Section -->
+<table width="100%" cellspacing="0" cellpadding="0" style="border: none;">
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
 ### 👩‍💻 About Me  
 - 🌱 Currently learning **Django** & **React**  
@@ -19,7 +20,7 @@
 - 📫 Reach me at **nivetha.insights@gmail.com**
 
 </td>
-<td width="40%">
+<td width="40%" align="center" valign="middle">
   <img src="https://payload-cms.code-b.dev/media/1709674661110-1.gif" alt="coding gif" width="320"/>
 </td>
 </tr>
@@ -57,6 +58,14 @@
 
 ---
 
+### 📂 Projects  
+
+- 🔐 **Fingerprint Matching System** – Secure biometric identification system.  
+- 🛒 **SmartCart with Invenza** – IoT-enabled shopping cart with inventory tracking.  
+- 📚 **Library Management System** – Digital system for efficient library operations.  
+
+---
+
 ### 🌐 Connect With Me  
 <p align="center">
 <a href="https://linkedin.com/in/nivetha-selvam" target="_blank">
@@ -78,10 +87,6 @@
 ### 📊 GitHub Stats  
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nivi-24&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nivi-24&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p>
